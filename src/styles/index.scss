@@ -1,0 +1,19 @@
+html {
+  font-size: 62.5% !important;
+}
+
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.container {
+  @media (min-width: 1200px) {
+    max-width: 144rem;
+  }
+
+  &-fullHD {
+    @media (min-width: 1200px) {
+      max-width: 192rem;
+    }
+  }
+}

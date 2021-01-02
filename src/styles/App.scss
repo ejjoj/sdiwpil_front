@@ -1,0 +1,11 @@
+// Variables
+$primary_color: #333;
+
+.navbar {
+  padding: 1.6rem 0;
+
+  &-brand {
+    font-size: 2.2rem;
+    color: $primary_color;
+  }
+}
