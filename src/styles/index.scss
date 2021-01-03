@@ -7,9 +7,6 @@ body {
 }
 
 .container {
-  @media (min-width: 1200px) {
-    max-width: 144rem;
-  }
 
   &-fullHD {
     @media (min-width: 1200px) {

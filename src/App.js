@@ -1,5 +1,9 @@
 import {BrowserRouter as Router} from 'react-router-dom';
 
+import 'jquery/dist/jquery.min';
+import 'bootstrap/js/dist/collapse';
+import 'bootstrap-icons/font/bootstrap-icons.css';
+
 import './styles/App.scss';
 
 import Header from "./components/Header";
