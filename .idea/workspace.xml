@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e047554-26b8-49d9-ba94-2fc7fba5929a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/NavItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NavList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/doctor.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/HomeSlider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dentist.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Pages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Pages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +66,9 @@
       <workItem from="1608379754385" duration="4775000" />
       <workItem from="1609583846946" duration="307000" />
       <workItem from="1609584420868" duration="2041000" />
-      <workItem from="1609669237015" duration="6216000" />
+      <workItem from="1609669237015" duration="6644000" />
+      <workItem from="1609690929896" duration="4029000" />
+      <workItem from="1609786865969" duration="4506000" />
     </task>
     <servers />
   </component>
