@@ -6,7 +6,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 
 import './styles/App.scss';
 
-import Header from "./components/Header";
+import Header from "./components/nav/Header";
 import Pages from "./components/Pages";
 
 const App = () => {

@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e047554-26b8-49d9-ba94-2fc7fba5929a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/HomeSlider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dentist.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/home/HomeBlocks.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HomeSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/HomeSlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav/NavItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/nav/NavList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/HomePage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/HomePage.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,6 +55,8 @@
       <recent name="D:\sdiwpil_front\public\libs" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/nav" />
+      <recent name="$PROJECT_DIR$/src/components/home" />
       <recent name="D:\sdiwpil_front\src\styles" />
     </key>
   </component>
@@ -69,6 +74,7 @@
       <workItem from="1609669237015" duration="6644000" />
       <workItem from="1609690929896" duration="4029000" />
       <workItem from="1609786865969" duration="4506000" />
+      <workItem from="1609925947778" duration="6800000" />
     </task>
     <servers />
   </component>
@@ -89,5 +95,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

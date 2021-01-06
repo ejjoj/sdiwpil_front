@@ -60,6 +60,12 @@ $dark_yellow: #969529;
 
 .nav {
 
+  &-item {
+    @media (min-width: 992px) {
+      margin: 0 1.6rem;
+    }
+  }
+
   &-link {
     color: $secondary_color;
     font-size: 1.6em;
@@ -120,6 +126,7 @@ $dark_yellow: #969529;
 }
 
 .home {
+  padding: 0;
 
   &-slider {
     overflow: hidden;
@@ -178,11 +185,95 @@ $dark_yellow: #969529;
     &__excerpt {
       font-size: 1.6em;
     }
+
+    &__wrapper {
+      position: relative;
+    }
+
+    &__arrows {
+      position: absolute;
+      top: 50%;
+      left: calc(3.2rem + 6rem);
+      transform: translateY(-50%);
+      display: flex;
+      justify-content: flex-end;
+    }
+  }
+
+  &-title {
+    font-size: 3.5em;
+    font-weight: 500;
+    text-align: center;
   }
 }
 
 .slick {
   &-track {
     display: flex;
+  }
+
+  &-list {
+    margin: 0 -1.5rem;
+  }
+
+  &-slide {
+    margin: 0 1.5rem;
+  }
+}
+
+.arrow {
+  width: 6rem;
+  height: 6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  transition: background-color .3s;
+
+  svg {
+    width: 2.2rem;
+    height: 2.2rem;
+    transition: fill .3s;
+  }
+
+  &-left {
+    background-color: $yellow;
+
+    svg {
+      fill: $light_secondary;
+    }
+
+    &:hover {
+      background-color: $light_secondary;
+
+      svg {
+        fill: $yellow;
+      }
+    }
+  }
+
+  &-right {
+    background-color: $light_secondary;
+
+    svg {
+      fill: $yellow;
+    }
+
+    &:hover {
+      background-color: $yellow;
+
+      svg {
+        fill: $light_secondary;
+      }
+    }
+  }
+}
+
+.spacey {
+  margin-top: 6.4rem;
+  margin-bottom: 6.4rem;
+
+  &:nth-of-type(1) {
+    margin-top: 0;
   }
 }
